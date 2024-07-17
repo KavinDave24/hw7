@@ -5,6 +5,8 @@ This program generates a QR code PNG file containing a URL that links to my GitH
 
 ![GitHub QR Code](github_qr_code.png)
 
-## Log Output
 
-![Log Output](log_output.png)
+## Log of Successfully Creating the QR Code
+
+![QR Code Log](images/qr.png)
+
